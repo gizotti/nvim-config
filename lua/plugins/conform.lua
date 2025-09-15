@@ -26,7 +26,7 @@ return {
       },
       formatters_by_ft = {
         ruby = { "rubocop" },
-        eruby = { "erb_format" },
+        eruby = {},
       },
     },
   },
